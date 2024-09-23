@@ -1,0 +1,10 @@
+#!/bin/bash
+
+name=Guac-DEV
+rgName=$name-RG
+vnetName=$name-VNET
+nsgName=$name-NSG
+vmAdmin="vlad"
+vmAdminPassword="xxxxxxxxx"
+mysqladmin="guacamole_service"
+mysqlpassword="xxxxxxxxx"
